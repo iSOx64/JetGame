@@ -1,2 +1,2 @@
 # JetGame
-must download this librery : https://dev.mysql.com/downloads/connector/j/
+must download this library : https://dev.mysql.com/downloads/connector/j/
